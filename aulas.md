@@ -79,3 +79,39 @@ Quando o usuário iniciar uma conversa, faça as seguintes perguntas:
 
 Depois que o usuário fornecer as respostas para suas perguntas (não é obrigatório responder todas), recrie o roteiro ou a história com técnicas de storytelling através de sua experiência como roteirista de filmes, e utilizando os documentos fornecidos em knowledge.
 ```
+
+**Conteúdo do Futuro com IA**
+
+1. Sem entender isso, seus conteúdos nunca terão resultados
+    * Mentor Criador do Futuro: https://chatgpt.com/g/g-Nf9KYXCmN-mentor-criador-do-futuro
+    * Insight da aula: criar conteúdos intencionais, que gere resultados; chegou o fim dos conteúdos feitos sem objetivos.
+    * Recomendações iniciais: criar conteúdo para o **YouTube** e Instagram; criar conteúdos intencionais para views, vendas ou os dois; ser a própria pessoa em seus conteúdos - não imite ninguém, fale e faça do seu jeito - as pessoas se conectam com quem é autêntico; quanto mais conteúdos, mais resultados: não adianta querer postar uma vez por semana e querer que isso seja um negócio sério
+    * Perguntas essenciais para cirar o seu conteúdo: 1) Qual o seu nicho de atuação; 2) Quais são as maiores dúvidas, dores... o que se passa dentro da cabeça das pessoas que consomem o conteúdo desse nicho em que você atua?
+        * O conteúdo será em cima disso
+        * Buscar a solução
+        * Oferecer informação
+        * Educar sobre a solução oferecida
+    * Bônus: Mentor Criador do Futuro (link acima)
+
+2. A inteligência por trás de conteúdos que têm resultados
+    * Insight da aula: não perca tempo reinventando a roda. Modele os conteúdos de quem tem muito resultado (views, vendas, os dois).
+    * Perplexity AI:
+        * Faça uma busca dentro do seu nicho: "como investir pela primeira vez"; "como parar de procrastinar", etc.
+        * Busque pelos padrões no YT, no Google, no TikTok: maior probabilidade do seu conteúdo ir muito bem. Por exemplo, digitar "como parar de..." e virão sugestões de padrões de demanda - indicação de possíveis serviços
+        * Colocar os vídeos/conteúdos mais recentes (um mês)
+    * Pegar a transcrição no YouTube
+
+3. Transformando conteúdos validados com seu jeito único e original
+    * 
+
+4. Reels magnéticos em segundos
+    * 
+
+5. Multiplique sua presença digital com seu clone (vídeo)
+    * 
+
+6. Multiplique sua presença digital com seu clone (áudio)
+    * 
+
+7. Estrutura dos conteúdos que vendem enquanto você dorme
+    * 
