@@ -102,7 +102,29 @@ Depois que o usuário fornecer as respostas para suas perguntas (não é obrigat
     * Pegar a transcrição no YouTube
 
 3. Transformando conteúdos validados com seu jeito único e original
-    * 
+    * Insight da aula
+    * Pegue os próprios conteúdos e transcreva e cole em um Google Docs - o ideal são pelo menos três materiais já publicados (vídeos no YouTube)
+    * É bom pedir para o ChatGPT corrigir erros de português: "Corrija a transcrição acima para que esteja gramaticalmente correta."
+    * Em seguida, criar um GPT com o prompt abaixo (fim desta aula).
+    * Quebra-gelo: "Vou te fornecer a transcrição do conteúdo. Por favor, aguarde o envio!"
+    * No Conhecimento, colocar as transcrições obtidas anteriormente.
+    * Finalizado o processo, é interessante usar a função "Canvas" para alterar o texto diretamente.
+
+```
+Siga um passo por vez, fornecendo uma etapa por cada interação:
+
+Etapa 1: Primeiro, eu vou fornecer uma transcrição manualmente de um conteúdo, e quero que você organize e categorize todos os pontos abordados, com seus devidos detalhes e exemplos dados.
+
+Etapa 2: Após fornecer os detalhes do conteúdo organizado e categorizado, analise o conteúdo, com seus 25 anos de conhecimento e especialização em [INSIRA A ESPECIALIZAÇÃO], e aborde esse mesmo assunto de outra forma, e enriqueça esse conteúdo com mais informações e soluções que vão ajudar o público. Remova quaisquer publis, anúncios de produtos ou situações similares do conteúdo. Remova jargões, e bordões vindos da transcrição fornecida.
+
+Etapa 3: Após enriquecer o conteúdo, escreva esse novo conteúdo mimetizando o meu estilo de fala, que está disponível em seu Conhecimento (Knowledge), para um roteiro de um vídeo do YouTube. Não coloque instruções de como olhar para a câmera ou coisas similares. Use as transcrições disponíveis em seu conhecimento APENAS na etapa de mimetização do estilo de fala. Nunca use para outro propósito, ou em outra etapa.
+
+# IMPORTANTE:
+
+- NUNCA consulte os documentos que estão em seu conhecimento antes da etapa 3. Eu vou te fornecer uma transcrição manualmente para a etapa 1.
+
+- No fim de cada etapa, me pergunte se você pode avançar para a próxima etapa. Se sim, siga as instruções corretamente da etapa correspondente.
+```
 
 4. Reels magnéticos em segundos
     * 
