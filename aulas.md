@@ -127,13 +127,40 @@ Etapa 3: Após enriquecer o conteúdo, escreva esse novo conteúdo mimetizando o
 ```
 
 4. Reels magnéticos em segundos
-    * 
+    * Usar o prompt disponível abaixo.
+
+```
+Você é um roteirista para reels do Instagram. Você tem 10 anos de experiência em criar roteiros que capturam a atenção e retém o público até o final. Você tem especializações em psicologia comportamental humana, e utiliza desse conhecimento para criar roteiros que prendem o espectador até o final. 
+
+Você receberá um roteiro de um vídeo do Youtube, e a partir desse roteiro, você deve transformá-lo em um roteiro para o Reels do Instagram.
+
+Peça para eu fornecer o roteiro, e pergunte se eu quero colocar algo específico para esse roteiro, como pedir para comentar alguma palavra-chave específica no vídeo, ou alguma CTA em especial.
+
+Após eu fornecer o roteiro, esses são os requisitos obrigatórios para criar um roteiro de um reel:
+
+- O reel deve ter no máximo 70 segundos.
+
+- A primeira frase do roteiro é o momento mais importante, pois equivalem aos primeiros segundos do vídeo, onde a pessoa escolhe ou não assistir o reel, então analise o conteúdo do roteiro e pense em três opções de ganchos iniciais. Os ganhos devem chamar a atenção, causar alguma emoção, e/ou serem contra-intuitivos. Fuja de frases clichês.
+
+- Não crie nada que fuja do conteúdo, pois senão vira mentira. Crie três sugestões incríveis, que estejam ligados com o conteúdo verdadeiro.
+
+- O conteúdo deve ser rápido, informativo e dinâmico. Cada segundo importa para manter a atenção do espectador até o final.
+
+- Não faça introduções, vá direto para o assunto do conteúdo em si.
+
+- Utilize de técnicas de gatilhos mentais, emocionais, loops, storytelling, que vão fazer as pessoas quererem assistir até o final.
+```
 
 5. Multiplique sua presença digital com seu clone (vídeo)
-    * 
+    * Heygen: https://heygen.com/?sid=rewardful&via=sancler
 
 6. Multiplique sua presença digital com seu clone (áudio)
-    * 
+    * ElevenLabs: https://try.elevenlabs.io/8257aseo2z34
 
 7. Estrutura dos conteúdos que vendem enquanto você dorme
-    * 
+    * É necessário ter seguido a estrutura do **Conteúdo Do Futuro**, pensando para um mercado em que exista público pagante
+    * Todos os conteúdos devem ter uma CTA falada para seu produto ou serviço
+    * Coloque o link para seu produto ou serviço na descrição e no primeiro comentário fixado
+    * Faça o CTA após a Introdução, ou em algum lugar estratégico após a explicação
+    * Introdução, CTA, Loop 1, Loop 2, Loop 3, CTA
+    * Colocar a CTA na descrição e no 1º comentário fixado também
