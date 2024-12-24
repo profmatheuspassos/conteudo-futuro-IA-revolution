@@ -164,3 +164,5 @@ Após eu fornecer o roteiro, esses são os requisitos obrigatórios para criar u
     * Faça o CTA após a Introdução, ou em algum lugar estratégico após a explicação
     * Introdução, CTA, Loop 1, Loop 2, Loop 3, CTA
     * Colocar a CTA na descrição e no 1º comentário fixado também
+
+
